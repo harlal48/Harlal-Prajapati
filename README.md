@@ -79,7 +79,7 @@
 
 ## 📜 Education
 
-- 🎓 **B.Tech in CSE** – UIT-RGPV, Bhopal (2026) – *7.31 CGPA (Till 6th sem)*
+- 🎓 **B.Tech in CSE** – Bansal institute of Research Technology and Science, Bhopal (2026) – *7.31 CGPA (Till 6th sem)*
 
 ---
 
