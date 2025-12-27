@@ -24,7 +24,6 @@
 
 ## 🧑‍💻 About Me
 🚀 B.Tech from Bansal Institute of Research Technology & Science (BIRTS), Bhopal.
-
 💡 I'm a quick learner and passionate about solving real-world problems through technology.  
 📚 Constantly upgrading my tech stack and working on exciting backend & full-stack projects.  
 🎯 Goal-oriented, team player with a strong foundation in **Java, Spring Boot, SQL, and Web Development**.
